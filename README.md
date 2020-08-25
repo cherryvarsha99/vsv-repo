@@ -6,8 +6,8 @@ first Git page
 * web apps
 * simple project
 
-<!--background:#ffc327 -->
-<!--colour:44647b -->
+<!-- background: #fff4e3 -->
+<!-- color: #2d2422 -->
 ## Fond of
 
 
