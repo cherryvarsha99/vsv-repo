@@ -1,14 +1,15 @@
-# vsv_repo
-It is a sample repo
-Thi is varsha 
-first Git page
+# Hello
+My name is varsha Vellanki ,belongs to 44563-02-20FA
 
-* web apps
-* simple project
 
-<!-- background: #fff4e3 -->
-<!-- color: #2d2422 -->
+
+
+- ![#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `#c5f015`
 ## Fond of
+*Reading
+*cooking
+*watching K-drams :P
+
 
 
 You can find me on [Facebook](https://www.facebook.com/cherry.varsha)
