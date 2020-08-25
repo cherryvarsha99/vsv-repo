@@ -9,6 +9,6 @@ first Git page
 
 ## Fond of
 
-You can follow me on [Facebook] (https://www.facebook.com/cherry.varsha)
+You can follow me on [Facebook](https://www.facebook.com/cherry.varsha)
 
 .
