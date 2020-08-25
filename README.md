@@ -22,6 +22,8 @@ My name is varsha Vellanki ,belongs to 44563-02-20FA
 You can find me on [Facebook](https://www.facebook.com/cherry.varsha)
 
 
-my univerity portal [NWMSU](https://www.nwmissouri.edu/)     ❚❚ /play story
+my univerity portal [NWMSU](https://www.nwmissouri.edu/)     
 
+
+► /play story
 .
